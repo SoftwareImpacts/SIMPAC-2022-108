@@ -1,0 +1,17 @@
+final feature
+Gender
+Age_at_label
+Episode_num
+Icd_code_num
+Episode_num_other_chronic
+Episode_num_Elixhauser
+Icd_num_other_chronic
+Icd_num_unique_other_chronic
+Years_elapse_other_Elixhauser
+Smoking
+Alcohol
+Degree
+Transitivity
+Pagerank_Alcohol
+Pagerank_Gender
+Years_at_label
