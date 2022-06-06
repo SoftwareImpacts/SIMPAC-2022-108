@@ -1,0 +1,8 @@
+model_name,train_score_accuracy,train_scores_std
+LR,0.7077,0.0069
+KNN,0.7631,0.0052
+NB,0.6131,0.0001
+RF,0.9047,0.0083
+XGBoost,0.9489,0.0011
+MLP,0.7744,0.0114
+CNN,0.7832,0.0071
