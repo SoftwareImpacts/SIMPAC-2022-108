@@ -1,8 +1,0 @@
-model_name,best_params
-LR,"{'lr__estimator__C': 1, 'lr__estimator__max_iter': 100, 'pca__n_components': 10}"
-KNN,"{'knc__estimator__n_neighbors': 5, 'knc__estimator__weights': 'uniform', 'pca__n_components': 10}"
-NB,{'nb__estimator__var_smoothing': 10}
-RF,"{'rf__estimator__criterion': 'gini', 'rf__estimator__max_features': 'sqrt', 'rf__estimator__n_estimators': 1}"
-XGBoost,"{'xg__estimator__colsample_bytree': 0.8, 'xg__estimator__learning_rate': 0.01, 'xg__estimator__max_depth': 5, 'xg__estimator__n_estimators': 2000, 'xg__estimator__subsample': 0.8}"
-MLP,"{'name': 'Adam', 'learning_rate': 0.01, 'decay': 0.0, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07, 'amsgrad': False}"
-CNN,"{'name': 'Adam', 'learning_rate': 0.001, 'decay': 0.0, 'beta_1': 0.9, 'beta_2': 0.999, 'epsilon': 1e-07, 'amsgrad': False}"
